@@ -3,6 +3,7 @@ import os
 import csv
 
 #read the path
+# eg"/home/disu/Documents/Dev/pystuff/filess/"
 file_path="USE YOUR FILE PATH"
 
 #list all the files from the directory
